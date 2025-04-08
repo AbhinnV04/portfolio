@@ -2,9 +2,9 @@ body {
     font-family: 'Segoe UI', sans-serif;
   }
   
-  section {
+  /* section {
     min-height: 60vh;
-  }
+  } */
 
   .project-img-wrapper {
   position: relative;
